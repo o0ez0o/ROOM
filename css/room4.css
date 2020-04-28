@@ -147,7 +147,7 @@ body {
 	font-weight: 400;
 	margin: 0 18vw 0 0;
 	white-space: nowrap;
-	color: #000;
+	color: rgb(255, 255, 255);
 }
 
 .frame__heading-wrap {
